@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowRight, Calendar, Download, Mail, RotateCcw } from "lucide-react";
+import { Calendar, Download, Mail, RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { ScoreAnswers, ScoreReport, FrenteScore } from "./types";
 
